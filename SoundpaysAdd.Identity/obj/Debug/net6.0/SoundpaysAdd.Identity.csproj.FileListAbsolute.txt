@@ -1,0 +1,113 @@
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.AssemblyReference.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfoInputs.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfo.cs
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CoreCompileInputs.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.deps.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CopyComplete
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\refint\SoundpaysAdd.Identity.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\ref\SoundpaysAdd.Identity.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.deps.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.AssemblyReference.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfoInputs.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfo.cs
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CoreCompileInputs.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CopyComplete
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\refint\SoundpaysAdd.Identity.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\ref\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.deps.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.AssemblyReference.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfoInputs.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfo.cs
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CoreCompileInputs.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CopyComplete
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\refint\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\ref\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.deps.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.AssemblyReference.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfoInputs.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfo.cs
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CoreCompileInputs.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CopyComplete
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\refint\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Identity\obj\Debug\net6.0\ref\SoundpaysAdd.Identity.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.deps.json
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.AssemblyReference.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfoInputs.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfo.cs
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CoreCompileInputs.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CopyComplete
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\refint\SoundpaysAdd.Identity.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\ref\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.deps.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.AssemblyReference.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfoInputs.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfo.cs
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CoreCompileInputs.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CopyComplete
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\refint\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\ref\SoundpaysAdd.Identity.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.deps.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.AssemblyReference.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfoInputs.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.AssemblyInfo.cs
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CoreCompileInputs.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.csproj.CopyComplete
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\refint\SoundpaysAdd.Identity.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Identity\obj\Debug\net6.0\ref\SoundpaysAdd.Identity.dll

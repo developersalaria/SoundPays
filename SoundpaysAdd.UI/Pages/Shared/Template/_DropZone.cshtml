@@ -1,0 +1,48 @@
+﻿@model SoundpaysAdd.Core.DTO.DropzoneViewModel
+@{
+    Layout = null;
+}
+
+<!-- Drop Zone Start here -->
+<div class="dropzone dropzone-area soundpays-fileUpload"
+     id="@Model.DropzoneId"
+     data-url="@Model.Url"
+     data-attachment-name="@Model.AttachmentName"
+     data-destination-control="@Model.DestinationControl"
+     data-attachment-container="@Model.AttachmentContainer"
+     data-delete-url="@Model.DeleteUrl"
+     data-record-id="@Model.RecordId"
+     data-file-type="@Model.FileType">
+    <i class="material-icons text-muted"></i>
+    <div class="dz-message">
+        <div><i class="fas fa-cloud-upload-alt icon-cloud fa-2x"></i></div>
+        <div class="font-weight-bold text-muted">Drag and drop files here</div>
+        <div class="mb-1 mt-n1 text-muted"><small>OR</small></div>
+        <div class="font-weight-bold"><span class="browse-file-btn px-2 py-1">Browse Files</span></div>
+    </div>
+</div>
+<!-- Drop Zone end here -->
+<!--use for delete file-->
+@if (Model.AttachmentList != null)
+{
+    <table class="table dropzone-attachment-list" id="@Model.AttachmentContainer">
+        <thead>
+            <tr>
+                <th scope="col" width="95%">File Name</th>
+                @if (!Model.IsReadOnly)
+                {
+                    <th scope="col">Action</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            <partial name="~/Pages/Shared/Template/_AttachmentRow.cshtml" model="Model.AttachmentList" />
+        </tbody>
+    </table>
+
+}
+<!-- Drop Zone end here -->
+
+<script>
+    InitilizefileUploaderById("@Model.DropzoneId");
+</script>

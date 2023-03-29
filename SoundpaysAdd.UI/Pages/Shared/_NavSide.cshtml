@@ -1,0 +1,83 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using SoundpaysAdd.Identity.Models
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+<div id="sidebar" class="collapse-horizontal show shadow p-3 bg-light collapse ">
+    <div id="sidebar-nav" class="list-group border-0 rounded-0 text-sm-start min-vh-100">
+        <a href="/" class="d-flex align-items-center pb-3 mb-3 link-dark text-decoration-none">
+            <img src="~/images/branding/soundpays-green.svg" />
+        </a>
+        <ul class="nav nav-pills flex-column mb-auto">
+            @if (SignInManager.IsSignedIn(User))
+            {
+
+                @* <li class="nav-item">
+            <a href="#" class="nav-link active" aria-current="page">
+            <i class="fa-solid fa-house me-1"></i>
+            Home
+            </a>
+            </li>*@
+                @*@if (User.IsInRole(SoundpaysAdd.Core.Enums.Roles.Administrator.ToString()))
+            {
+            <li>
+            <a href="#" class="nav-link link-dark">
+            <i class="fa-solid fa-screwdriver-wrench me-1"></i>
+            Admin Tools
+            </a>
+            </li>
+            <li>
+            <a href="#" class="nav-link link-dark">
+            <i class="fa-solid fa-lock me-1"></i>
+            Blocked IPs
+            </a>
+            </li>
+            }*@
+                @if (User.IsInRole(SoundpaysAdd.Core.Enums.Roles.Administrator.ToString()))
+                {
+                    <li>
+                        <a asp-page="/Advertiser/Index" class="nav-link link-dark">
+                            <i class="fa-solid fa-user me-1"></i>
+                            Advertiser
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-page="/SoundCode/Index" class="nav-link link-dark">
+                            <i class="fa-solid fa-music me-1"></i>
+                            Sound Codes
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-page="/Segment/Index" class="nav-link link-dark">
+                            <i class="fa-solid fa-road me-1"></i>
+                            Segments
+                        </a>
+                    </li>
+                }
+                @if (User.IsInRole(SoundpaysAdd.Core.Enums.Roles.Advertiser.ToString()) || User.IsInRole(SoundpaysAdd.Core.Enums.Roles.Administrator.ToString()))
+                {
+                    <li>
+                        <a asp-page="/Campaign/Index" class="nav-link link-dark">
+                            <i class="fa-solid fa-bullhorn me-1"></i>
+                            Campaign
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-page="/Add/Index" class="nav-link link-dark">
+                            <i class="fa-solid fa-rectangle-ad me-1"></i>
+                            Adds
+                        </a>
+                    </li>
+                }
+
+            }
+        </ul>
+    </div>
+</div>
+<div id="sidebar-overlay" data-bs-target="#sidebar" data-bs-toggle="collapse"></div>
+<script>
+    if (((window.innerWidth > 0) ? window.innerWidth : screen.width) <= 768) {
+        const sideBar = document.getElementById('sidebar');
+        sideBar && sideBar?.classList?.remove("show")
+    }
+</script>

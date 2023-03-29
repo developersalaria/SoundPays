@@ -1,0 +1,226 @@
+﻿@using SoundpaysAdd.Core.DTO;
+@model AddViewModel
+@{
+    Layout = null;
+
+    bool isReadOnly;
+    Boolean.TryParse(ViewData["IsReadOnly"]?.ToString(), out isReadOnly);
+
+}
+
+<div class="modal-dialog  modal-lg">
+    <div class="modal-content">
+
+        <div class="modal-header">
+            <h5 class="modal-title marketing-header">@ViewData["Title"]</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+
+        <!--Add/Edit Add from-->
+        <form id="formAddAdd"
+              data-clear-form="false"
+              data-post-type='ajax'
+              data-success-method="AddViewModel.UpdateSuccess"
+              data-init-select="true"
+              asp-page="Index"
+              asp-page-handler="CreateOrEdit">
+            <div class="modal-body">
+                <input type="hidden" asp-for="Id">
+                <input type="hidden" asp-for="CreatedOn">
+                <input type="hidden" asp-for="IsDeleted">
+                <input type="hidden" asp-for="IsPaused">
+                <input type="hidden" asp-for="ModifiedBy">
+                <input type="hidden" asp-for="ModifiedOn">
+                <input type="hidden" asp-for="CreatedOn">
+
+                <div class="row">
+                    <div class="col">
+                        <label>Select Campaign</label><span class="text-danger">*</span>
+                        <select asp-for="CampaignId"
+                                class="form-control dropDownSelect2"
+                                placeholder="Select Campaign"
+                                asp-items="Model.CampaignList" required>
+                            <option value="" selected disabled>Select Campaign</option>
+                        </select>
+                        <span asp-validation-for="CampaignId" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Select Sound Code</label><span class="text-danger">*</span>
+                        <select asp-for="SoundCodeId"
+                                class="form-control dropDownSelect2"
+                                placeholder="Select Sound Code"
+                                asp-items="Model.SoundCodeList" required>
+                            <option value="" selected disabled>Select Sound Code</option>
+                        </select>
+                        <span asp-validation-for="SoundCodeId" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Short Name</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="ShortName" class="form-control" placeholder="Short name" required>
+                        <span asp-validation-for="ShortName" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Long Name</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="LongName" placeholder="Long name" class="form-control" required>
+                        <span asp-validation-for="LongName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Start Date</label><span class="text-danger">*</span>
+                        <input type="text" data-allow-past-date="false" data-is-range-picker="true" data-end-selector-id="StopDate" autocomplete="off" asp-for="StartDate" class="soundpays-datepicker form-control" placeholder="Start Date" required>
+                        <span asp-validation-for="StartDate" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Start Time</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="StartTimeStandardString" onchange="convertStandardToMilitaryTime(this)" class="soundpays-timePicker form-control" placeholder="Start Time" required>
+                        <span asp-validation-for="StartTimeStandardString" class="text-danger"></span>
+                        <input type="hidden" class="sound-pays-time-picker" asp-for="StartTime">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Stop Date</label><span class="text-danger">*</span>
+                        <input type="text" data-allow-past-date="false" data-is-range-picker="true" data-start-selector-id="StartDate" autocomplete="off" asp-for="StopDate" placeholder="Stop Date" class="soundpays-datepicker form-control" required>
+                        <span asp-validation-for="StopDate" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Stop Time</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="StopTimeStandardString" onchange="convertStandardToMilitaryTime(this)" class="soundpays-timePicker form-control" placeholder="Stop Time" required>
+                        <span asp-validation-for="StopTimeStandardString" class="text-danger"></span>
+                        <input type="hidden" class="sound-pays-time-picker" asp-for="StopTime">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Select Add Type</label><span class="text-danger">*</span>
+                        <select asp-for="AddType"
+                                class="form-control dropDownSelect2"
+                                placeholder="Select Add Type"
+                                asp-items="Model.AddTypeList" required>
+                            <option value="" selected disabled>Select Add Type</option>
+                        </select>
+                        <span asp-validation-for="AddType" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>JS Tag</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="JSTag" placeholder="JS tag" class="form-control" required>
+                        <span asp-validation-for="JSTag" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Min Width</label><span class="text-danger">*</span>
+                        <input type="number" autocomplete="off" asp-for="MinWidth" class="form-control" placeholder="Min width" required>
+                        <span asp-validation-for="MinWidth" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Max Width</label><span class="text-danger">*</span>
+                        <input type="number" autocomplete="off" asp-for="MaxWidth" class="form-control" placeholder="Max width" required>
+                        <span asp-validation-for="MaxWidth" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Min Height</label><span class="text-danger">*</span>
+                        <input type="number" autocomplete="off" asp-for="MinHeight" class="form-control" placeholder="Min height" required>
+                        <span asp-validation-for="MinHeight" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Max Height</label><span class="text-danger">*</span>
+                        <input type="number" autocomplete="off" asp-for="MaxHeight" class="form-control" placeholder="Max height" required>
+                        <span asp-validation-for="MaxHeight" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row mt-2">
+                    <div class="col">
+                        <label>SD Attachment</label>
+                        <div class="form-group">
+                            @{
+                                DropzoneViewModel dropzoneSD = new DropzoneViewModel
+            {
+                AttachmentName = "AttachmentListSD",
+                DestinationControl = "tblDropzoneDestinationSD",
+                AttachmentContainer = "tblDropzoneAttachmentViewSD",
+                DeleteUrl = "/Add?handler=DeleteAttachment",
+                Url = "/Attachment/UploadAttachmentToLocal",
+                DropzoneId = "dpz-dropzone-attachment-sd",
+                FileType = "video",
+                AttachmentList = Model.AttachmentListSD,
+                IsReadOnly = isReadOnly
+            };
+                            }
+                            <partial name="~/Pages/Shared/Template/_DropZone.cshtml" model="dropzoneSD" />
+                        </div>
+                    </div>
+                    <div class="col">
+                        <label>HD Attachment</label>
+                        <div class="form-group">
+                            @{
+                                DropzoneViewModel dropzoneHD = new DropzoneViewModel
+            {
+                AttachmentName = "AttachmentListHD",
+                DestinationControl = "tblDropzoneDestinationHD",
+                AttachmentContainer = "tblDropzoneAttachmentViewHD",
+                DeleteUrl = "/Add?handler=DeleteAttachment",
+                Url = "/Attachment/UploadAttachmentToLocal",
+                DropzoneId = "dpz-dropzone-attachment-hd",
+                FileType = "video",
+                AttachmentList = Model.AttachmentListHD,
+                IsReadOnly = isReadOnly
+            };
+                            }
+                            <partial name="~/Pages/Shared/Template/_DropZone.cshtml" model="dropzoneHD" />
+                        </div>
+                    </div>
+                    <div class="col">
+                        <label>FHD Attachment</label>
+                        <div class="form-group">
+                            @{
+                                DropzoneViewModel dropzoneFHD = new DropzoneViewModel
+            {
+                AttachmentName = "AttachmentListFHD",
+                DestinationControl = "tblDropzoneDestinationFHD",
+                AttachmentContainer = "tblDropzoneAttachmentViewFHD",
+                DeleteUrl = "/Add?handler=DeleteAttachment",
+                Url = "/Attachment/UploadAttachmentToLocal",
+                DropzoneId = "dpz-dropzone-attachment-fhd",
+                FileType = "video",
+                AttachmentList = Model.AttachmentListFHD,
+                IsReadOnly = isReadOnly
+            };
+                            }
+                            <partial name="~/Pages/Shared/Template/_DropZone.cshtml" model="dropzoneFHD" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="row float-right">
+                    <div class="col-md-12">
+                        <button type="button" class="btn btn-danger close-button" data-bs-dismiss="modal"><i class="fa fa-times" aria-hidden="true"></i> Cancel</button>
+                        @if (!isReadOnly)
+                        {
+                            <button type="button" id="btnAddSave" class="btn btn-primary save-form-button ladda-button" data-style="zoom-out"><i class="fas fa-save"></i> Save</button>
+                        }
+                    </div>
+                </div>
+            </div>
+        </form>
+        <!--/ Add/Edit Add from end -->
+
+    </div>
+</div>
+<script>
+    InitializeTimePicker();
+    InitilizeDatePicker();
+    InitCustomDropdown();
+
+    if ("@isReadOnly" == "True") {
+        disabledFormInputs("formAddAdd");
+    }
+
+</script>

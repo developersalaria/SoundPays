@@ -1,0 +1,159 @@
+﻿@model SoundpaysAdd.Core.DTO.CampaignViewModel
+@{
+    Layout = null;
+
+    bool isAdmin;
+    Boolean.TryParse(ViewData["IsAdmin"]?.ToString(), out isAdmin);
+
+    bool isReadOnly;
+    Boolean.TryParse(ViewData["IsReadOnly"]?.ToString(), out isReadOnly);
+
+}
+<div class="modal-dialog  modal-lg">
+    <div class="modal-content">
+
+        <div class="modal-header">
+            <h5 class="modal-title marketing-header">@ViewData["Title"]</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+
+        <!--Add/Edit Campaign from-->
+        <form id="formAddCampaign"
+              data-clear-form="false"
+              data-post-type='ajax'
+              data-success-method="CampaignViewModel.UpdateSuccess"
+              data-init-select="true"
+              asp-page="Index"
+              asp-page-handler="CreateOrEdit">
+            <div class="modal-body">
+                <input type="hidden" asp-for="Id">
+                <input type="hidden" asp-for="CreatedOn">
+                <input type="hidden" asp-for="IsDeleted">
+                <input type="hidden" asp-for="IsPaused">
+                <input type="hidden" asp-for="ModifiedBy">
+
+                <div class="row">
+                    @if (isAdmin)
+                    {
+                        <div class="col">
+                            <label>Select Advertiser</label><span class="text-danger">*</span>
+                            <select asp-for="AdvertiserId"
+                                class="form-control dropDownSelect2"
+                                placeholder="Select Organization"
+                                asp-items="Model.AdvertiserList" required>
+                                <option value="" selected disabled>Select Advertiser</option>
+                            </select>
+                            <span asp-validation-for="AdvertiserId" class="text-danger"></span>
+                        </div>
+                    }
+
+
+                    <div class="col">
+                        <label>CPM</label><span class="text-danger">*</span>
+                        <input type="number" autocomplete="off" asp-for="CPM" class="form-control" placeholder="CPM" required>
+                        <span asp-validation-for="CPM" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Short Name</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="ShortName" class="form-control" placeholder="Short name" required>
+                        <span asp-validation-for="ShortName" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Long Name</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="LongName" placeholder="Long name" class="form-control" required>
+                        <span asp-validation-for="LongName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Start Date</label><span class="text-danger">*</span>
+                        <input type="text" data-allow-past-date="false" data-is-range-picker="true" data-end-selector-id="StopDate" autocomplete="off" asp-for="StartDate" class="soundpays-datepicker form-control" placeholder="Start Date" required>
+                        <span asp-validation-for="StartDate" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Start Time</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="StartTimeStandardString" onchange="convertStandardToMilitaryTime(this)" class="soundpays-timePicker form-control" placeholder="Start Time" required>
+                        <span asp-validation-for="StartTimeStandardString" class="text-danger"></span>
+                        <input type="hidden" class="sound-pays-time-picker" asp-for="StartTime">
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Stop Date</label><span class="text-danger">*</span>
+                        <input type="text" data-allow-past-date="false" data-is-range-picker="true" data-start-selector-id="StartDate" autocomplete="off" asp-for="StopDate" placeholder="Stop Date" class="soundpays-datepicker form-control" required>
+                        <span asp-validation-for="StopDate" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Stop Time</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="StopTimeStandardString" onchange="convertStandardToMilitaryTime(this)" class="soundpays-timePicker form-control" placeholder="Stop Time" required>
+                        <span asp-validation-for="StopTimeStandardString" class="text-danger"></span>
+                        <input type="hidden" class="sound-pays-time-picker" asp-for="StopTime">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Min Impressions</label><span class="text-danger">*</span>
+                        <input type="text"
+                               autocomplete="off"
+                               asp-for="MinImpressions"
+                               class="form-control soundpays-number-only"
+                               placeholder="Min impressions">
+                        <span asp-validation-for="MinImpressions" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Max Impressions</label><span class="text-danger">*</span>
+                        <input type="text"
+                               autocomplete="off"
+                               asp-for="MaxImpressions"
+                               class="form-control soundpays-number-only"
+                               placeholder="Max impressions">
+                        <span asp-validation-for="MaxImpressions" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label for="Name">Priority</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="Priority" placeholder="Priority" class="form-control soundpays-number-only" required>
+                        @Html.ValidationMessageFor(m => m.Priority, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label for="Name">Segement</label><span class="text-danger">*</span>
+                        @Html.ListBoxFor(x => x.SegementIdArray, Model.SegementList, new { multiple = "multiple", @class = "form-control dropDownSelect2"  })
+                        @Html.ValidationMessageFor(m => m.SegementIdArray, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="row float-right">
+                    <div class="col-md-12">
+                        <button type="button" class="btn btn-danger close-button" data-bs-dismiss="modal"><i class="fa fa-times" aria-hidden="true"></i> Close</button>
+                        @if (!isReadOnly)
+                        {
+                            <button type="button" id="btnCampaignSave" class="btn btn-primary save-form-button ladda-button" data-style="zoom-out"><i class="fas fa-save"></i> Save</button>
+                        }
+                    </div>
+                </div>
+            </div>
+
+        </form>
+        <!--/ Add/Edit Campaign from end -->
+
+    </div>
+</div>
+
+<script>
+
+    InitializeTimePicker();
+    InitilizeDatePicker();
+    InitCustomDropdown();
+    InitilizeNumberOnly();
+    if ("@isReadOnly" == "True") {
+        disabledFormInputs("formAddCampaign");
+    }
+
+</script>

@@ -1,0 +1,30 @@
+﻿@inject Microsoft.Extensions.Configuration.IConfiguration Configuration
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SoundpaysAdd.UI</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="~/lib/fontawesome/css/all.min.css" rel="stylesheet" />
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/lib/phone-validate/intltelinput.css" rel="stylesheet" />
+    <script>
+        var baseUrl = "@Configuration["Keys:PortalUrl"]";
+    </script>
+</head>
+<body class="fixed-sn " data-spy="scroll" data-target="#scrollspy" data-offset="15">
+    <div class="container-fluid p-0">
+        <main>
+            <div class="container">
+                @RenderBody()
+            </div>
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/custom.js" asp-append-version="true"></script>
+    <script src="~/lib/phone-validate/intlTelInput.min.js" ></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

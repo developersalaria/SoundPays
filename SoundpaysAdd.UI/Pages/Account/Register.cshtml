@@ -1,0 +1,58 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<div class="row justify-content-md-center center-align-form">
+    <div class="col-md-4">
+        <h1>@ViewData["Title"]</h1>
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="registerViewModel.Phone">
+            <div class="form-floating  mb-3">
+                <input asp-for="registerViewModel.Email" class="form-control" aria-required="true" placeholder="Enter email" />
+                <label asp-for="registerViewModel.Email"></label>
+                <span asp-validation-for="registerViewModel.Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating  mb-3">
+                <input asp-for="registerViewModel.UserName" class="form-control" aria-required="true" placeholder="Enter name" />
+                <label asp-for="registerViewModel.UserName"></label>
+                <span asp-validation-for="registerViewModel.UserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating  mb-3">
+                <label asp-for="registerViewModel.PhoneNumber"></label>
+                <input asp-for="registerViewModel.PhoneNumber" class="form-control" aria-required="true" placeholder="Enter phone" />
+                <span asp-validation-for="registerViewModel.PhoneNumber" class="text-danger"></span>
+                <span id="phone_number_error_msg" class="d-none text-danger "></span>
+            </div>
+
+            <div class="form-floating  mb-3">
+                <input asp-for="registerViewModel.Password" class="form-control" aria-required="true" placeholder="Enter password" />
+                <label asp-for="registerViewModel.Password"></label>
+                <span asp-validation-for="registerViewModel.Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-floating  mb-3">
+                <input asp-for="registerViewModel.ConfirmPassword" class="form-control" aria-required="true" placeholder="Confirm password" />
+                <label asp-for="registerViewModel.ConfirmPassword"></label>
+                <span asp-validation-for="registerViewModel.ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <button id="registerSubmitButton" type="submit" class="d-none"></button>
+            <button id="registerSubmit" type="button" class="w-100 btn btn-lg btn-primary mt-2 text-uppercase" onclick="FormValidationCheck(this)">Sign Up</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        $(() => {
+            ValidatePhone("registerViewModel_PhoneNumber", 'registerViewModel_Phone', "phone_number_error_msg");
+        })
+    </script>
+}

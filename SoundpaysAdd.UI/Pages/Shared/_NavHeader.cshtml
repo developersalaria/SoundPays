@@ -1,0 +1,22 @@
+﻿<header>
+    <nav class="navbar navbar-expand-md navbar-dark bg-primary mb-4">
+        <div class="container-fluid">
+            <a href="#" data-bs-target="#sidebar" data-bs-toggle="collapse" class="border rounded-3 px-3 py-2 me-4 text-decoration-none text-light"><i class="fa-solid fa-bars"></i></a>
+            <a class="navbar-brand" href="#"><img src="~/images/soundpays-logo.png" width="128" height="22" /></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#soundpayNavbarCollapse" aria-controls="soundpayNavbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="soundpayNavbarCollapse">
+                <ul class="navbar-nav mb-2 mb-md-0">
+                    <li class="nav-item">
+                        <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Page("/", new { area = "" })" method="post">
+                            <button type="submit" class="nav-link btn btn-link text-light"><i class="fa-solid fa-right-to-bracket me-1"></i>Logout</button>
+                        </form>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+              

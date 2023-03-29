@@ -1,0 +1,77 @@
+﻿@page
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Xsrf
+@Html.AntiForgeryToken()
+@model SoundpaysAdd.UI.Pages.SoundCode.IndexModel
+
+<!-- #region Data table  -->
+<div class="widget-group row">
+    <div class="col-12">
+        <div class="card">
+            <!-- card-header -->
+            <div class="card-header">
+                <div class="row">
+                    <div class="col">
+                        <span class="h5 border-right-1 pr-2 marketing-header">
+                            <i class="icon-truck-fast"></i>Sound Codes
+                        </span>
+                    </div>
+                    <div class="col d-flex justify-content-end">
+                        <button class="btn btn-primary" id="btnSoundCodeAdd" onclick="SoundCodeViewModel.OpenSoundCodeModal(0)"><i class="fas fa-plus me-1"></i>Add Sound Code</button>
+                    </div>
+                </div>
+            </div>
+            <!-- /.card-header -->
+            <!-- card-body -->
+            <div class="card-body">
+                <table id="tblSoundCode" class="table table-bordered table-hover dt-responsive nowrap" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Code</span>
+                                </div>
+                            </th>
+                             <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Start Zone</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">End Zone</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Active</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Paused</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Action</span>
+                                </div>
+                            </th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+    </div>
+</div>
+<!-- /.content -->
+<!-- #endregion -->
+<!-- #region scripts -->
+@section Scripts
+    {
+    <script src="~/js/SoundCodeViewModel.js"></script>
+    <script>
+        SoundCodeViewModel.SoundCodeListView();
+    </script>
+}
+<!-- #endregion -->

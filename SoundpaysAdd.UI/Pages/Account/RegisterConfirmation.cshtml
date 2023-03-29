@@ -1,0 +1,12 @@
+﻿@page
+@model RegisterConfirmationModel
+@{
+    ViewData["Title"] = Model.RegistrationSuccess ? "Register confirmation" : "Register Failed";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    @Model.EmailConfirmationMessage
+</p>
+  

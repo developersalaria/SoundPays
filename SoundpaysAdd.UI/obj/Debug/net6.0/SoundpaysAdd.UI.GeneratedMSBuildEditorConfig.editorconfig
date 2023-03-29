@@ -1,0 +1,180 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SoundpaysAdd.UI
+build_property.RootNamespace = SoundpaysAdd.UI
+build_property.ProjectDir = D:\Development\SoundPays\SoundpaysAdd.UI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Development\SoundPays\SoundpaysAdd.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/LoginWith2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/_LocationModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxfTG9jYXRpb25Nb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Account/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Add/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Add/_CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkXF9DcmVhdGVPckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Advertiser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2ZXJ0aXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Advertiser/_ApiKey.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2ZXJ0aXNlclxfQXBpS2V5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Advertiser/_CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWR2ZXJ0aXNlclxfQ3JlYXRlT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Campaign/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtcGFpZ25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Campaign/_CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FtcGFpZ25cX0NyZWF0ZU9yRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Segment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VnbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Segment/_CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VnbWVudFxfQ3JlYXRlT3JFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Shared/Template/_AttachmentRow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFRlbXBsYXRlXF9BdHRhY2htZW50Um93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Shared/Template/_DropZone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFRlbXBsYXRlXF9Ecm9wWm9uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Shared/_NavHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9OYXZIZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Shared/_NavSide.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9OYXZTaWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/SoundCode/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU291bmRDb2RlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/SoundCode/_CreateOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU291bmRDb2RlXF9DcmVhdGVPckVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Development/SoundPays/SoundpaysAdd.UI/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yaez6ty8yi

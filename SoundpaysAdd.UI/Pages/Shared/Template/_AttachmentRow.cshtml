@@ -1,0 +1,43 @@
+﻿@model List<SoundpaysAdd.Core.DTO.AttachmentViewModel>
+@{
+    Layout = null;
+}
+@if (Model.Count > 0)
+{
+    @for (var i = 0; i < Model.Count; i++)
+    {
+        {
+            int index = Model[i].Index is null ? i : Model[i].Index ?? 0;
+            string propertyName = Model[i].AttachmentName is not null ? Model[i].AttachmentName : "AttachmentList";
+            string name = $"{propertyName}[{index}]";
+            string trId = $"rowAttachment_{index}_{propertyName}";
+            <tr id="@trId">
+                <input type="hidden" asp-for="@Model[i].Id" name="@(name+".Id")" id="@(name+".Id")">
+                <input type="hidden" asp-for="@Model[i].CreatedOn" name="@(name+".CreatedOn")" id="@(name+".CreatedOn")">
+                <input type="hidden" asp-for="@Model[i].CreatedBy" name="@(name+".CreatedBy")" id="@(name+".CreatedBy")">
+                <input type="hidden" asp-for="@Model[i].ModifiedBy" name="@(name+".ModifiedBy")" id="@(name+".ModifiedBy")">
+                <input type="hidden" asp-for="@Model[i].ModifiedOn" name="@(name+".ModifiedOn")" id="@(name+".ModifiedOn")">
+                <input type="hidden" asp-for="@Model[i].IsDeleted" name="@(name+".IsDeleted")" id="@(name+".IsDeleted")">
+                <input type="hidden" asp-for="@Model[i].Size" name="@(name+".Size")" id="@(name+".Size")">
+                <input type="hidden" asp-for="@Model[i].FileName" name="@(name+".FileName")" id="@(name+".FileName")">
+                <input type="hidden" asp-for="@Model[i].DummyFileName" name="@(name+".DummyFileName")" id="@(name+".DummyFileName")">
+                <input type="hidden" asp-for="@Model[i].Location" name="@(name+".Location")" id="@(name+".Location")">
+                <td><a href="@Model[i].Location">@Model[i].FileName</a></td>
+
+                @if (!Model[i].IsReadOnly)
+                {
+                    <td>
+                        <a class="delete-attachment ladda-button" data-style="zoom-out"
+           data-record-id="@Model[i].RecordId"
+           data-attachment-id="@Model[i].Id"
+           data-action-url="@Model[i].ActionUrl"
+           data-attachment-index="@index"
+           onclick="DeleteAttachment(event)" id="deleteAttachment_@index" data-list-id="@trId"><i class="fas fa-trash-alt text-danger"></i></a>
+                    </td>
+                }
+            </tr>
+
+        }
+    }
+}
+

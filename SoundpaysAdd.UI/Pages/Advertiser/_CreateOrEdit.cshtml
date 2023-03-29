@@ -1,0 +1,78 @@
+﻿@model SoundpaysAdd.Core.DTO.AdvertiserViewModel
+@{
+    Layout = null;
+
+    bool isReadOnly;
+    Boolean.TryParse(ViewData["IsReadOnly"]?.ToString(), out isReadOnly);
+}
+
+<div class="modal-dialog  modal-lg">
+    <div class="modal-content">
+
+        <div class="modal-header">
+            <h5 class="modal-title marketing-header">@ViewData["Title"]</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <!--Add/Edit  from-->
+        <form id="formAddAdvertiser"
+              data-clear-form="false"
+              data-post-type='ajax'
+              data-success-method="AdvertiserViewModel.UpdateSuccess"
+              data-init-select="true"
+              asp-page="Index"
+              asp-page-handler="CreateOrEdit">
+
+            <div class="modal-body">
+                <input type="hidden" asp-for="Id">
+                <input type="hidden" asp-for="UserId">
+                <div class="row">
+                    <div class="col">
+                        <label>Short Name</label><span class="text-danger">*</span>
+                        <input asp-for="ShortName" type="text" class="form-control" placeholder="Enter Short Name" required>
+                        <span asp-validation-for="ShortName" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Long Name</label><span class="text-danger">*</span>
+                        <input asp-for="LongName" type="text" class="form-control" placeholder="Enter Long Name" required>
+                        <span asp-validation-for="LongName" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Email</label><span class="text-danger">*</span>
+                        <input asp-for="Email" type="text" class="form-control" placeholder="Enter Email" required>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    @if (Model.Id <= 0)
+                    {
+                        <div class="col">
+                            <label>Password</label><span class="text-danger">*</span>
+                            <input asp-for="Password" type="text" class="form-control" placeholder="Enter Password" required>
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                    }
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <div class="row float-right">
+                    <div class="col-md-12">
+                        <button type="button" class="btn btn-danger close-button" data-bs-dismiss="modal"><i class="fa fa-times" aria-hidden="true"></i> Close </button>
+                        @if (!isReadOnly)
+                        {
+                            <button type="button" id="btnAdvertiserSave" class="btn btn-primary save-form-button ladda-button" data-style="zoom-out"><i class="fas fa-save"></i> Save</button>
+                        }
+                    </div>
+                </div>
+            </div>
+
+        </form>
+        <!--End of form section-->
+    </div>
+</div>
+
+<script>
+    if ("@isReadOnly" == "True") {
+        disabledFormInputs("formAddAdvertiser");
+    }
+</script>

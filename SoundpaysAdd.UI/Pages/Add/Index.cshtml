@@ -1,0 +1,130 @@
+﻿@page
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Xsrf
+@Html.AntiForgeryToken()
+@model SoundpaysAdd.UI.Pages.Add.IndexModel
+
+<!-- #region Data table  -->
+<div class="widget-group row">
+    <div class="col-12">
+        <div class="card">
+            <!-- card-header -->
+            <div class="card-header">
+                <div class="row">
+                    <div class="col">
+                        <span class="h5 border-right-1 pr-2 marketing-header">
+                            <i class="icon-truck-fast"></i>Adds
+                        </span>
+                    </div>
+                    <div class="col d-flex justify-content-end">
+                        <button class="btn btn-primary" id="btnAddAdd" onclick="AddViewModel.OpenAddModal(0)"><i class="fas fa-plus me-1"></i>Add</button>
+                    </div>
+                </div>
+            </div>
+            <!-- /.card-header -->
+            <!-- card-body -->
+            <div class="card-body">
+                <table id="tblAdd" class="table table-bordered table-hover dt-responsive nowrap" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Source Code</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Campaign</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Long Name</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Short Name</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Start Date</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Start Time</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Stop Date</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Stop Time</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Add Type</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Min Width</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Max Width</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Min Height</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Max Height</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Active</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Paused</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Action</span>
+                                </div>
+                            </th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+    </div>
+</div>
+<!-- /.content -->
+<!-- #endregion -->
+<!-- #region scripts -->
+@section Scripts
+{
+    <script>
+        let isAdmin = `@Model.IsAdmin` == "True";
+    </script>
+    <script src="~/js/AddViewModel.js"></script>
+    <script>
+        AddViewModel.AddListView();
+    </script>
+}
+<!-- #endregion -->

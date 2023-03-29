@@ -1,0 +1,50 @@
+﻿@using SoundpaysAdd.Core.DTO;
+@model SegmentViewModel
+
+<div class="modal-dialog  modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title marketing-header">@ViewData["Title"]</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+
+        <!--Add/Edit Segment from-->
+        <form id="formAddSegment"
+              data-clear-form="false"
+              data-post-type='ajax'
+              data-success-method="SegmentViewModel.UpdateSuccess"
+              data-init-select="true"
+              asp-page="Index"
+              asp-page-handler="CreateOrEdit">
+            <div class="modal-body">
+                <input type="hidden" asp-for="Id">
+                <input type="hidden" asp-for="CreatedOn">
+                <input type="hidden" asp-for="IsDeleted">
+                <input type="hidden" asp-for="ModifiedBy">
+                <input type="hidden" asp-for="ModifiedOn">
+                <input type="hidden" asp-for="CreatedOn">
+                <div class="row mb-2">
+                    <div class="col">
+                        <label>Name</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="Name" class="form-control" placeholder="Name" required>
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>Description</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="Description" placeholder="Description" class="form-control" required>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <div class="row float-right">
+                        <div class="col-md-12">
+                            <button type="button" class="btn btn-danger close-button" data-bs-dismiss="modal"><i class="fa fa-times" aria-hidden="true"></i> Cancel</button>
+                            <button type="button" id="btnSegmentSave" class="btn btn-primary save-form-button ladda-button" data-style="zoom-out"><i class="fas fa-save"></i> Save</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <!--/ Add/Edit Segment from end -->
+    </div>
+</div>

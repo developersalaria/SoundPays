@@ -1,0 +1,73 @@
+﻿@inject Microsoft.Extensions.Configuration.IConfiguration Configuration
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SoundpaysAdd.UI</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link href="~/lib/datatables/datatables.min.css" rel="stylesheet" />
+    <link href="~/css/jquery.timepicker.min.css" rel="stylesheet" />
+    <link href="~/css/jquery.datetimepicker.min.css" rel="stylesheet" />
+     <link href="~/lib/toastr/toastr.css" rel="stylesheet" />
+     <link href="~/lib/select2/select2.min.css" rel="stylesheet" />
+    <link href="~/lib/select2/select2-theme.min.css" rel="stylesheet" />
+    <link href="~/lib/select2/select2-theme.rtl.min.css" rel="stylesheet" />
+    <link href="~/lib/ladda/ladda-themeless.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/SoundpaysAdd.UI.styles.css" asp-append-version="true" />
+    <link href="~/lib/fontawesome/css/all.min.css" rel="stylesheet" />
+    <link href="~/lib/jquery-ui/themes/base/minified/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/lib/dropzone/dist/dropzone.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    
+    <script>
+        var baseUrl = "@Configuration["Keys:PortalUrl"]";
+    </script>
+</head>
+<body class="fixed-sn " data-spy="scroll" data-target="#scrollspy" data-offset="15" id="body-pd">
+    <!--//#region sidenav-->
+    @Html.Partial("_NavSide")
+    <!--//#endregion-->
+    <div class="container-fluid p-0">
+        <!--#region nav-->
+        @Html.Partial("_NavHeader")
+        <!--#enregion -->
+        <main>
+            <div class="container">
+            @RenderBody()
+            </div>
+        </main>
+    </div>
+    <div id="common-modal-pop-up" class="modal " tabindex="-1" aria-labelledby="common-modal-pop-upModalLabel" aria-hidden="true">
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/jquery-ui/ui/minified/jquery-ui.min.js"></script>
+    <script src="~/lib/timepicker/jquery.timepicker.min.js"></script>
+    <script src="~/lib/datetimepicker/jquery.datetimepicker.min.js"></script>
+    <script src="~/lib/datatables/datatables.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+     <script src="~/lib/toastr/toastr.min.js"></script>
+    <script src="~/lib/ladda/spin.min.js"></script>
+    <script src="~/lib/ladda/ladda.min.js"></script>
+    <script src="~/lib/ladda/ladda.jquery.min.js"></script>
+    <script src="~/lib/dropzone/dist/dropzone.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+     <script src="~/lib/sweetalert/sweetalert.min.js"></script>
+    <script src="~/lib/moment/moment.js"></script>
+    <script src="~/lib/select2/select2.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+    <script src="~/js/custom.js" asp-append-version="true"></script>
+    <script src="~/js/ValidationRules/MinMaxRules.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

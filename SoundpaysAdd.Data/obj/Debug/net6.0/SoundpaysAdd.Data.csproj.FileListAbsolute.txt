@@ -1,0 +1,131 @@
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.deps.json
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\bin\Debug\net6.0\ref\SoundpaysAdd.Data.dll
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.AssemblyReference.cache
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfoInputs.cache
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfo.cs
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CoreCompileInputs.cache
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.dll
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\obj\Debug\net6.0\ref\SoundpaysAdd.Data.dll
+D:\Workplace\Rob\SoundpaysAdds\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.AssemblyReference.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfoInputs.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfo.cs
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CoreCompileInputs.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.deps.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.runtimeconfig.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\refint\SoundpaysAdd.Data.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.genruntimeconfig.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\ref\SoundpaysAdd.Data.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CopyComplete
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.deps.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.runtimeconfig.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.AssemblyReference.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfoInputs.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfo.cs
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CoreCompileInputs.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CopyComplete
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\refint\SoundpaysAdd.Data.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.genruntimeconfig.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\ref\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.deps.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.runtimeconfig.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.AssemblyReference.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfoInputs.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfo.cs
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CoreCompileInputs.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CopyComplete
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\refint\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.genruntimeconfig.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\ref\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.deps.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.runtimeconfig.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.AssemblyReference.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfoInputs.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfo.cs
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CoreCompileInputs.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CopyComplete
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\refint\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.genruntimeconfig.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.Data\obj\Debug\net6.0\ref\SoundpaysAdd.Data.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.deps.json
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.runtimeconfig.json
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.AssemblyReference.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfoInputs.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfo.cs
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CoreCompileInputs.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CopyComplete
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\refint\SoundpaysAdd.Data.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.genruntimeconfig.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\ref\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.deps.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.runtimeconfig.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.AssemblyReference.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfoInputs.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfo.cs
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CoreCompileInputs.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CopyComplete
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\refint\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.genruntimeconfig.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\ref\SoundpaysAdd.Data.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.deps.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.runtimeconfig.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.AssemblyReference.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfoInputs.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.AssemblyInfo.cs
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CoreCompileInputs.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.csproj.CopyComplete
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\refint\SoundpaysAdd.Data.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\SoundpaysAdd.Data.genruntimeconfig.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.Data\obj\Debug\net6.0\ref\SoundpaysAdd.Data.dll

@@ -1,0 +1,73 @@
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+
+/*Side bar*/
+body {
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+    margin-bottom: 60px;
+    display: flex;
+    flex-wrap: nowrap;
+    height: 100vh;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+html {
+    height: -webkit-fill-available;
+    position: relative;
+    min-height: 100%;
+    font-size: 14px;
+}
+
+main {
+    display: flex;
+    flex-wrap: nowrap;
+    height: 100vh;
+    height: -webkit-fill-available;
+    max-height: 100vh;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+
+@media (max-width: 767.98px) {
+    .sidebar-overlay {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 1040;
+        background-color: #000;
+        filter: alpha(opacity=50);
+        opacity: .5;
+    }
+    #sidebar {
+        position: absolute;
+        z-index: 9999;
+    }
+}
+#sidebar-nav {
+    width: 280px;
+}
+/*Form*/
+.center-align-form {
+    align-items: center !important;
+    min-height: 100vh;
+}
+
+/*Phone validator*/
+.iti {
+    display: block !important;
+}
+
+    .iti .form-control {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }

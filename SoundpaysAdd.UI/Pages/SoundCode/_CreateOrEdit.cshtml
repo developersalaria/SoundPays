@@ -1,0 +1,58 @@
+﻿@using SoundpaysAdd.Core.DTO;
+@model SoundCodeViewModel
+
+<div class="modal-dialog  modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title marketing-header">@ViewData["Title"]</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+
+        <!--Add/Edit SoundCode from-->
+        <form id="formAddSoundCode"
+              data-clear-form="false"
+              data-post-type='ajax'
+              data-success-method="SoundCodeViewModel.UpdateSuccess"
+              data-init-select="true"
+              asp-page="Index"
+              asp-page-handler="CreateOrEdit">
+            <div class="modal-body">
+                <input type="hidden" asp-for="Id">
+                <input type="hidden" asp-for="CreatedOn">
+                <input type="hidden" asp-for="IsDeleted">
+                <input type="hidden" asp-for="IsPaused">
+                <input type="hidden" asp-for="ModifiedBy">
+                <input type="hidden" asp-for="ModifiedOn">
+                <input type="hidden" asp-for="CreatedOn">
+                <div class="row">
+                    <div class="col">
+                        <label>Code</label><span class="text-danger">*</span>
+                        <input type="text" autocomplete="off" asp-for="Code" class="form-control" placeholder="Code" required>
+                        <span asp-validation-for="Code" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row mb-2">
+                    <div class="col">
+                        <label>Start Zone</label><span class="text-danger">*</span>
+                        <input type="number" autocomplete="off" asp-for="StartZone" class="form-control" placeholder="Start zone" required>
+                        <span asp-validation-for="StartZone" class="text-danger"></span>
+                    </div>
+                  <div class="col">
+                        <label>End Zone</label><span class="text-danger">*</span>
+                        <input type="number" autocomplete="off" asp-for="EndZone" class="form-control" placeholder="End zone" required>
+                        <span asp-validation-for="EndZone" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <div class="row float-right">
+                        <div class="col-md-12">
+                            <button type="button" class="btn btn-danger close-button" data-bs-dismiss="modal"><i class="fa fa-times" aria-hidden="true"></i> Cancel</button>
+                            <button type="button" id="btnSoundCodeSave" class="btn btn-primary save-form-button ladda-button" data-style="zoom-out"><i class="fas fa-save"></i> Save</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <!--/ Add/Edit Sound Code from end -->
+    </div>
+</div>

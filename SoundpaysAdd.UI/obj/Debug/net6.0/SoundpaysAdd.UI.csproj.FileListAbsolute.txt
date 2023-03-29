@@ -1,0 +1,427 @@
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.Development.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.staticwebassets.runtime.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.exe
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.deps.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.runtimeconfig.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.AssemblyReference.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfoInputs.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfo.cs
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CoreCompileInputs.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cs
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.SoundpaysAdd.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.SoundpaysAdd.UI.props
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoundpaysAdd.UI.props
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoundpaysAdd.UI.props
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\bundle\SoundpaysAdd.UI.styles.css
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\projectbundle\SoundpaysAdd.UI.bundle.scp.css
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\refint\SoundpaysAdd.UI.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.genruntimeconfig.cache
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\ref\SoundpaysAdd.UI.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.dll
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+D:\Development\Project\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CopyComplete
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.Development.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.staticwebassets.runtime.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.exe
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.deps.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.runtimeconfig.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.AssemblyReference.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfoInputs.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfo.cs
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CoreCompileInputs.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cs
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.SoundpaysAdd.UI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.SoundpaysAdd.UI.props
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoundpaysAdd.UI.props
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoundpaysAdd.UI.props
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\bundle\SoundpaysAdd.UI.styles.css
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\projectbundle\SoundpaysAdd.UI.bundle.scp.css
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CopyComplete
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\refint\SoundpaysAdd.UI.dll
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.pdb
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.genruntimeconfig.cache
+E:\Development\Project\Dough\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\ref\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.Development.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.staticwebassets.runtime.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.exe
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.deps.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.runtimeconfig.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.AssemblyReference.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfoInputs.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfo.cs
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CoreCompileInputs.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cs
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.SoundpaysAdd.UI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.SoundpaysAdd.UI.props
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoundpaysAdd.UI.props
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoundpaysAdd.UI.props
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\bundle\SoundpaysAdd.UI.styles.css
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\projectbundle\SoundpaysAdd.UI.bundle.scp.css
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CopyComplete
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\refint\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.pdb
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.genruntimeconfig.cache
+E:\Workplace\Dough\Latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\ref\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.Development.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.staticwebassets.runtime.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.exe
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.deps.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.runtimeconfig.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.AssemblyReference.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfoInputs.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfo.cs
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CoreCompileInputs.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cs
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cs
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.SoundpaysAdd.UI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.SoundpaysAdd.UI.props
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoundpaysAdd.UI.props
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoundpaysAdd.UI.props
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\bundle\SoundpaysAdd.UI.styles.css
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\projectbundle\SoundpaysAdd.UI.bundle.scp.css
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CopyComplete
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\refint\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.pdb
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.genruntimeconfig.cache
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\obj\Debug\net6.0\ref\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\AutoMapper.dll
+E:\Workplace\Dough\Latest\latest\SoundPlay\SoundpaysAdd.UI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.json
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.staticwebassets.runtime.json
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.exe
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.deps.json
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.runtimeconfig.json
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\AutoMapper.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.AssemblyReference.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfoInputs.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfo.cs
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CoreCompileInputs.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cs
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.SoundpaysAdd.UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.SoundpaysAdd.UI.props
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoundpaysAdd.UI.props
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoundpaysAdd.UI.props
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\bundle\SoundpaysAdd.UI.styles.css
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\projectbundle\SoundpaysAdd.UI.bundle.scp.css
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CopyComplete
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\refint\SoundpaysAdd.UI.dll
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.pdb
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.genruntimeconfig.cache
+C:\Development\Project\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\ref\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.Development.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.staticwebassets.runtime.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.exe
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.deps.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.runtimeconfig.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\AutoMapper.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.AssemblyReference.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfoInputs.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfo.cs
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CoreCompileInputs.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cs
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cs
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.SoundpaysAdd.UI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.SoundpaysAdd.UI.props
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoundpaysAdd.UI.props
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoundpaysAdd.UI.props
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\bundle\SoundpaysAdd.UI.styles.css
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\projectbundle\SoundpaysAdd.UI.bundle.scp.css
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CopyComplete
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\refint\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.pdb
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.genruntimeconfig.cache
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\ref\SoundpaysAdd.UI.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.Mvc.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.Razor.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.Helpers.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.WebPages.dll
+E:\Workplace\Dough\Latest\latest\Latest\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.Development.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\appsettings.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.staticwebassets.runtime.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.exe
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.deps.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.runtimeconfig.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.UI.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\AutoMapper.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.Mvc.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.Razor.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.Helpers.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Web.WebPages.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Core.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Identity.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Services.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\bin\Debug\net6.0\SoundpaysAdd.Data.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.AssemblyReference.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfoInputs.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.AssemblyInfo.cs
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CoreCompileInputs.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cs
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.RazorAssemblyInfo.cs
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.SoundpaysAdd.UI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.SoundpaysAdd.UI.props
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SoundpaysAdd.UI.props
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SoundpaysAdd.UI.props
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\bundle\SoundpaysAdd.UI.styles.css
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\scopedcss\projectbundle\SoundpaysAdd.UI.bundle.scp.css
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.csproj.CopyComplete
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\refint\SoundpaysAdd.UI.dll
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.pdb
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\SoundpaysAdd.UI.genruntimeconfig.cache
+E:\Development\Project\Dough\SoundPays (4)\SoundPays\SoundpaysAdd.UI\obj\Debug\net6.0\ref\SoundpaysAdd.UI.dll

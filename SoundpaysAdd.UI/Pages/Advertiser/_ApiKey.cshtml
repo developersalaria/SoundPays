@@ -1,0 +1,77 @@
+﻿@model SoundpaysAdd.Core.DTO.ApiUserViewModel
+@{
+    Layout = null;
+
+    bool isKeyGenrated;
+    Boolean.TryParse(ViewData["IsKeysGenrated"]?.ToString(), out isKeyGenrated);
+}
+<div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title marketing-header">Key</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <!--Add/Edit  from-->
+        <form id="formAdvertiserAPI"
+              data-clear-form="false"
+              data-post-type='ajax'
+              data-success-method="AdvertiserViewModel.APICB"
+              data-init-select="true"
+              asp-page="Index"
+              asp-page-handler="CreateOrViewAPI">
+
+            <div class="modal-body">
+                <input type="hidden" id="Id" name="Id" value="@Model.Id">
+                <input type="hidden" asp-for="AdvertiserId">
+                <div class="row">
+                    <div class="col">
+                        <label>Client Id</label>
+                        <div class="input-group mb-3">
+                            <input asp-for="ClientId" type="text" class="form-control" placeholder="Client Id" disabled>
+                            <span asp-validation-for="ClientId" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <label>Client Secret</label>
+                        <input asp-for="ClientSecret" type="text" class="form-control" placeholder="Client Secret" disabled>
+                        <span asp-validation-for="ClientSecret" class="text-danger"></span>
+                    </div>
+                    <div class="col">
+                        <label>API Key</label>
+                        <input asp-for="ApiKey" type="text" class="form-control" placeholder="Api Key" disabled>
+                        <span asp-validation-for="ApiKey" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <label>Client Key</label>
+                        <input asp-for="ClientKey" type="text" class="form-control" placeholder="Client Key" disabled>
+                        <span asp-validation-for="ClientKey" class="text-danger"></span>
+                    </div>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <div class="row float-right">
+                    <div class="col-md-12">
+                        <button type="button" class="btn btn-danger close-button" data-bs-dismiss="modal"><i class="fa fa-times" aria-hidden="true"></i> Close</button>
+                        @if (!isKeyGenrated)
+                        {
+                            <button type="button" id="btnAdvertiserApiSave" class="btn btn-primary save-form-button ladda-button" data-style="zoom-out"><i class="fa-solid fa-key"></i> Generate New keys</button>
+                        }
+                    </div>
+                </div>
+            </div>
+
+        </form>
+        <!--End of form section-->
+    </div>
+</div>
+
+<script>
+    if ("@Html.Raw(isKeyGenrated)" == "True") {
+        disabledFormInputs("formAdvertiserAPI");
+    }
+
+</script>
+

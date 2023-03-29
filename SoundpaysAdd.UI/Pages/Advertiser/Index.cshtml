@@ -1,0 +1,78 @@
+﻿@page
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Xsrf
+@Html.AntiForgeryToken()
+@model SoundpaysAdd.UI.Pages.Account.Advertiser.IndexModel
+<div class="widget-group row">
+    <div class="col-12">
+        <div class="card">
+            <!-- card-header -->
+            <div class="card-header">
+                <div class="row">
+                    <div class="col">
+                        <span class="h5 border-right-1 pr-2 advertiser-header">
+                            <i class="icon-truck-fast"></i>Advertisers
+                        </span>
+                    </div>
+                    <div class="col d-flex justify-content-end">
+                        <button class="btn btn-primary" id="btnAddadvertiser" onclick="AdvertiserViewModel.OpenAdvertiserModal(0)"><i class="fas fa-plus me-1"></i>Advertiser </button>
+                    </div>
+                </div>
+            </div>
+            <!-- /.card-header -->
+            <!-- card-body -->
+            <div class="card-body">
+                <table id="tblAdvertiser" class="table table-bordered table-hover dt-responsive nowrap" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Short Name</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Long Name</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Email</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Active</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Paused</span>
+                                </div>
+                            </th>
+                            <th data-class="expand">
+                                <div class="table-header">
+                                    <span class="column-title">Action</span>
+                                </div>
+                            </th>
+
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+    </div>
+</div>
+<!-- #region scripts -->
+@section Scripts
+    {
+    <script>
+        let isAdmin = `@Model.IsAdmin` == "True";
+    </script>
+    <script src="~/js/AdvertiserViewModel.js"></script>
+    <script>
+        AdvertiserViewModel.ListView();
+    </script>
+
+}
+<!-- #endregion -->
